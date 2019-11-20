@@ -1,0 +1,85 @@
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+
+  body {
+  margin: 0;
+  font-family: "Work Sans", -apple-system, BlinkMacSystemFont, 
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, 
+  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff; 
+}
+  
+nav{
+  display: block;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none; }
+
+
+.author-img,
+.hero-wrap,
+.img,
+.insta-img,
+.user-img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; }
+
+a {
+  text-decoration: none;
+  color: #000001;
+  transition: all 0.3s ease-in-out; }
+  
+ /* a:hover, a:focus {
+    text-decoration: none;
+    outline: none; 
+  }*/
+a:hover, a:focus {
+  text-decoration: none;
+  color: #ccb78f;
+  outline: none !important; }
+
+
+h1 {
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 400;
+  font-family: "Poppins", Arial, sans-serif; 
+}
+
+.subTitulo{
+color: black;
+/*margin-bottom: 40px;*/
+font-size: 20px;
+letter-spacing: 3px;
+text-transform: uppercase; 
+}
+ 
+.text-center {
+  text-align: center !important; }
+
+h1, h2, h3, h4, h5,
+.h1, .h2, .h3, .h4, .h5 {
+line-height: 1.5;
+color: rgba(0, 0, 0, 0.8);
+font-weight: 400;
+font-family: "Poppins", Arial, sans-serif; }
+

@@ -1,0 +1,110 @@
+.ftco-footer {
+  font-size: 14px;
+  background: #242423;
+  padding: 3em 0; 
+}
+
+  .ftco-footer .ftco-footer-widget h2 {
+    color: #fff;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase; 
+  }
+
+  .ftco-footer .ftco-footer-widget ul li a span {
+    color: #fff; 
+  }
+
+
+  .ftco-footer ul.photo {
+    width: 100%; }
+
+  .ftco-footer ul.photo li {
+      width: 33.33%;
+      height: 100px;
+      float: left; }
+
+   .ftco-footer ul.photo li a {
+        width: 100%;
+        height: 100px;
+        display: block; 
+        filter: grayscale(60%);
+      }
+
+     .ftco-footer ul.photo li a:hover{
+      filter: grayscale(0%);
+     } 
+
+  .ftco-footer p {
+    color: rgba(255, 255, 255, 0.5); }
+  .ftco-footer a {
+    color: rgba(255, 255, 255, 0.5); }
+
+   .ftco-footer a:hover {
+      color: #fff; }
+
+  .ftco-footer .ftco-heading-2 {
+    font-size: 17px;
+    font-weight: 400;
+    color: #000000; }
+
+  .ftco-footer .categories li {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 5px 0; }
+
+  .ftco-footer .categories li a {
+      color: rgba(255, 255, 255, 0.5) !important; }
+
+  .ftco-footer .categories li a span {
+        color: rgba(255, 255, 255, 0.8) !important; }
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none; }
+  /*fin*/
+
+.block-23 ul {
+padding: 0; }
+.block-23 ul li, .block-23 ul li > a {
+  display: table;
+  line-height: 1.5;
+  margin-bottom: 15px; }
+.block-23 ul li span {
+  color: rgba(255, 255, 255, 0.5); }
+.block-23 ul li .icon, .block-23 ul li .text {
+  display: table-cell;
+  vertical-align: top; }
+.block-23 ul li .icon {
+  width: 40px;
+  font-size: 18px;
+  padding-top: 2px;
+  color: white; 
+}
+
+/**/
+.widget-title {
+  margin-bottom: 15px;}
+
+.widget-title span {
+	background: #fff none repeat scroll 0 0;
+	display: block;
+	height: 1px;
+	margin-top: 20px;
+	position: relative;
+	width: 20%;
+}
+
+.widget-title span::after {
+	background: inherit;
+	content: "";
+	height: inherit;
+	position: absolute;
+	top: -4px;
+	width: 50%;}
+
+.colorheart{
+color: #eee2dc;
+}

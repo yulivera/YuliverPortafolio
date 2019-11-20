@@ -1,0 +1,54 @@
+.ftco-section {
+  padding: 5em 1.8em;
+  position: relative; }
+
+
+  @media (max-width: 991.98px) {
+  .ftco-section {
+  padding: 3em 0; } }
+
+.ftco-bread {
+  background: #cbc190 !important;
+  /*background: rgba(217, 223, 212, 1);*/
+  padding: 4em 1.8em !important; 
+  /*opacity: 0.6;*/
+}
+
+.ftco-bread .breadcrumbs {
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    z-index: 99; }
+
+.ftco-bread .breadcrumbs span {
+      border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+      color: black;
+      /*color: #66fcf1;*/
+       
+    }
+.ftco-bread .breadcrumbs span a {
+      color: rgba(0, 0, 0, 0.5); 
+      cursor: pointer;
+    }
+
+.ftco-bread .bread {
+    font-weight: 700;
+    color: #000000;
+    /*color: #fff;*/
+    margin-bottom: 0; }
+
+  .col-md-8{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px; }
+
+  @media (min-width: 768px) {
+  .col-md-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.66667%;
+    flex: 0 0 66.66667%;
+    max-width: 66.66667%; }
+  }

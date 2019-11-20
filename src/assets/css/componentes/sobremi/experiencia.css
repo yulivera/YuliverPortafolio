@@ -1,0 +1,77 @@
+.resume-section.with-bg {	
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.spad {
+	padding-top: 125px;
+	padding-bottom: 10px;
+}
+
+.section-title h2 {
+	margin-bottom: 70px;
+	padding-bottom: 2px;
+}
+
+
+.resume-list {
+	list-style: none;
+	margin-left: 60px;
+	padding-left: 110px;
+	border-left: 2px solid #40424a;
+}
+
+.resume-list li {
+	margin-bottom: 120px;
+	position: relative;
+}
+.resume-list li:last-child {
+	margin-bottom: 0;
+}
+
+.resume-list li:after {
+	position: absolute;
+	content: '';
+	width: 15px;
+	height: 15px;
+	border: 2px solid #40424a;
+	border-radius: 50px;
+	background: #cacaca;
+	top: 30px;
+	left: -118px;
+}
+.resume-list h2,h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.resume-list h4 {
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #808181;
+	margin-top: 10px;
+	margin-bottom: 45px;
+}
+.resume-list h3 {
+	text-transform: uppercase;
+	color: #cbc190;
+	
+}
+
+.resume-list p {
+	margin-bottom: 0;
+}
+
+
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+	
+	
+	.resume-list {
+		margin-left: 0;
+		padding-left: 0;
+		border-left: none;
+	}
+	
+	
+}

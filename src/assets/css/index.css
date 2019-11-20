@@ -1,0 +1,11 @@
+@import url(componentes/global/global.css);
+@import url(componentes/menu/menuLateral.css);
+@import url(componentes/basicos/banner1.css);
+@import url(componentes/basicos/footer.css);
+@import url(componentes/basicos/botonBorder.css);
+@import url(componentes/inicio/presentacion.css);
+@import url(componentes/sobremi/experiencia.css);
+@import url(componentes/portafolio/proyectos.css);
+@import url(componentes/detalle/proyecto.css);
+@import url(componentes/habilidades/habilidades.css);
+@import url(componentes/contacto/myContacto.css);
