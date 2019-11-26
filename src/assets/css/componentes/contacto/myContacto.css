@@ -7,7 +7,9 @@
       padding: 3em 0; } 
       
     }
-
+.contact-section {
+  margin-bottom: 120px;
+}
 .contact-section .contact-info p a {
   color: #1a1a1a;
 }

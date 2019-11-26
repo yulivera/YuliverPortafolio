@@ -1,5 +1,5 @@
 <template>
-  <section class="ftco-section" id="skills-section">  
+  <section class="ftco-section habilidad-section" id="skills-section">  
     <div class="container">
       <div class="row">
         <div v-for="(list,index) in habilidades" :key="index" class="col-md-6">

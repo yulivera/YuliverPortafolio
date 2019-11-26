@@ -51,7 +51,7 @@
                </ul>         
                 <img class="firma" src="images/fuente.png">
               </div>
-              <a class="button type1" href="https://drive.google.com/file/d/13GgNFH72Z9GtNqlUkM3yYwWSS0iudk2t/view?usp=sharing">Descargar CV</a>
+              <a class="button type1" href="https://drive.google.com/file/d/1PLr3-Enea-C86BJXRPCRQlWEEhdD8Ahq/view?usp=sharing">Descargar CV</a>
 	           </div>
 					 </div>
 				</div>

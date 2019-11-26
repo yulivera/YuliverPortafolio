@@ -1,5 +1,5 @@
 <template>
-	<section class="resume-section spad">
+	<section class="resume-section spad experi-mb">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-7 offset-xl-2">
@@ -8,7 +8,7 @@
 					</div>
 					<ul class="resume-list mb-5">
 						<li>
-							<h2>FREENLANCE</h2>							
+							<h2>FREELANCER</h2>							
 							<h4>2019</h4>							
 						</li>
 						<li>							
