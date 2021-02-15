@@ -1,4 +1,15 @@
 export default [
+	{
+	 titulo: "Sistema Veterinaria VET-PET",
+	 descripcion: "Sistema para la gestión de clinica veterinaria.",
+	 cliente: "VET-PET",
+	 siteWeb: "https://youtu.be/Dv2EfwtLeAA",
+	 completado: "2021",
+	 foto: ['vet_pet_1.png','vet_pet_3.png','vet_pet_2.png','vet_pet_4.png','vet_pet_5.png','vet_pet_6.png','vet_pet_7.png','vet_pet_8.png'],
+	 herramientas: "PHP, MySql, Bootstrap v4, Ajax, Jquery, MVC",
+	 categoria: 'web',
+	 id: 1
+	},
      {
 	 titulo: 'CupCake',
 	 descripcion: 'Diseño aprendiendo Bootstrap',
@@ -8,7 +19,7 @@ export default [
 	 foto: ['cupcake1.png','cupcake2.png','cupcake3.png','cupcake4.png'],
 	 herramientas: 'Bootstrap, CSS',
      categoria: 'web practica',
-     id: 1
+     id: 2
 	},
 	{
 	 titulo: 'Sistema Basico de Inventario',
@@ -19,7 +30,7 @@ export default [
 	 foto: ['inv1.png','inv2.png','inv3.png','inv4.png'],
 	 herramientas: 'Java, Swing, Mysql, JasperReport - ireport',
 	 categoria: 'escritorio',
-	 id: 2
+	 id: 3
 	},
 	{
 	 titulo:' Portafolio Digital',
@@ -30,7 +41,7 @@ export default [
 	 foto: ['miporf1.png','miporf2.png','miporf4.png'],
 	 herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
      categoria: 'web',
-     id: 3
+     id: 4
 	},
 	{
 	 titulo: "La Cafetería",
@@ -41,7 +52,7 @@ export default [
 	 foto: ['cafeteria1.png','cafeteria2.png','cafeteria3.png','cafeteria4.png','cafeteria5.png'],
 	 herramientas: "Html, CSS, Jquery",
      categoria: 'diseno web',
-     id: 4
+     id: 5
 	},
 	{
 	 titulo: "Perfil",
@@ -52,7 +63,7 @@ export default [
 	 foto: ['perfil_java.png','perfil_java2.png'],
 	 herramientas: "Java Swing",
      categoria: 'diseno',
-     id: 5
+     id: 6
 	},
 	{
 	 titulo: "Login Slider",
@@ -63,7 +74,7 @@ export default [
 	 foto: ['login_java.png','login_java2.png'],
 	 herramientas: "Java",
      categoria: 'diseno',
-     id: 6
+     id: 7
 	},
 	{
 	 titulo: "Adopta una Mascota",
@@ -74,7 +85,7 @@ export default [
 	 foto: ['adop1.png','adop2.png','adop3.png','adop4.png','adop5.png'],
 	 herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
      categoria: 'web practica',
-     id: 7
+     id: 8
 	},
 	{
 	 titulo: "La Panificadora",
@@ -85,17 +96,7 @@ export default [
 	 foto: ['pana1.png','pana2.png','pana3.png'],
 	 herramientas: "Java, Mysql",
      categoria: 'escritorio',
-     id: 8
-	},
-	{
-	 titulo: "CRUD Notas",
-	 descripcion: "CRUD simple de Notas, con uso de paginación",
-	 cliente: "Personal",
-	 siteWeb: "#",
-	 completado: "2019",
-	 foto: ['phpnota.jpg'],
-	 herramientas: "PHP, Bootstrap",
-     categoria: 'practica',
      id: 9
 	}
+	
 ]

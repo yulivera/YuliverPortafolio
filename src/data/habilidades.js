@@ -1,31 +1,39 @@
 export default [
 {
 	nombre: 'Java',
-	porcentaje: 42,
+	porcentaje: 40,
 },
 {
 	nombre: 'PHP',
-	porcentaje: 35,
-},
-{
-	nombre: 'MySQL',
-	porcentaje: 45,
-},
-{
-	nombre: 'HTML/CSS',
 	porcentaje: 55,
 },
 {
-	nombre: 'Vue js',
-	porcentaje: 42,
+	nombre: 'MySQL',
+	porcentaje: 55,
 },
 {
-	nombre: 'Laravel',
-	porcentaje: 27,
+	nombre: 'HTML/CSS',
+	porcentaje: 70,
+},
+{
+	nombre: 'JavaScript',
+	porcentaje: 70,
+},
+{
+	nombre: 'Ajax',
+	porcentaje: 70,
+},
+{
+	nombre: 'Jquery',
+	porcentaje: 60,
+},
+{
+	nombre: 'Vue js',
+	porcentaje: 40,
 },
 {
 	nombre: 'Bootstrap',
-	porcentaje: 35,
+	porcentaje: 60,
 }
 
 ]

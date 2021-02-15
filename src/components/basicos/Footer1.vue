@@ -15,10 +15,12 @@
 	                	style="background-image: url(/images/php.png);"></a></li>
 	                <li><a href="https://www.mysql.com/" class="img" 
 	                	style="background-image: url(/images/mysql.jpg);"></a></li>
+	                
 	                <li><a href="https://vuejs.org/" class="img" 
 	                	style="background-image: url(/images/vuejs.jpg);"></a></li>
-	                <li><a href="https://laravel.com/" class="img" 
-	                	style="background-image: url(/images/laravel.jpg);"></a></li>
+	                
+	                <li><a href="https://www.php.net/" class="img" 
+	                	style="background-image: url(/images/php.png);"></a></li>
 	                <li><a href="https://getbootstrap.com/" class="img" 
 	                	style="background-image: url(/images/boots.jpg);"></a></li>
 	              </ul>
@@ -53,7 +55,7 @@
 		                <li>		             
 		                	<span class="icon" >
 		                	<font-awesome-icon icon="phone" /></span>
-		                	<span class="text">+00 555-55-55</span></li>
+		                	<span class="text">+00 ---------</span></li>
 
 		                <li>
 		                	<span class="icon" ><font-awesome-icon icon="envelope" /></span>
@@ -68,7 +70,7 @@
 				<hr>
         		<p>
 				 Copyright &copy;
-				 2019 | Yuliver					 
+				 2021 | Yuliver					 
 				   <font-awesome-icon icon="heart" class="colorheart" /> 
 				</p>
 	          </div>

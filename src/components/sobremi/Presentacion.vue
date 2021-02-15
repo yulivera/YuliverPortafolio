@@ -29,7 +29,7 @@
 	             			 		<img src="/images/social/git20.png">
 	             			 	</span></a></li>
            				 </ul>
-               			 <a class="button type1" href="https://drive.google.com/file/d/1PLr3-Enea-C86BJXRPCRQlWEEhdD8Ahq/view?usp=sharing">Descargar CV</a>
+               			 <!-- <a class="button type1" href="https://drive.google.com/file/d/1PLr3-Enea-C86BJXRPCRQlWEEhdD8Ahq/view?usp=sharing">Descargar CV</a> -->
        				 </div>
 				</div>
 			</div>

@@ -9,7 +9,7 @@
 					<ul class="resume-list mb-5">
 						<li>
 							<h2>FREELANCER</h2>							
-							<h4>2019</h4>							
+							<h4>2019-Presente</h4>							
 						</li>
 						<li>							
 							<h2>PRÁCTICA PROFESIONAL</h2>
