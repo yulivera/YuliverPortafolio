@@ -36,7 +36,7 @@ export default [
 	 titulo:' Portafolio Digital',
 	 descripcion: 'Mi portafolio digital',
 	 cliente: 'Yuliver :)',
-	 siteWeb: 'www.miproyecto.com3',
+	 siteWeb: '',
 	 completado: 'OCT. 2019',
 	 foto: ['miporf1.png','miporf2.png','miporf4.png'],
 	 herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',

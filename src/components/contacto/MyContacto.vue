@@ -17,14 +17,7 @@
 	          <br>+00 555-55-55</p>  
 	          </div>
           </div>
-          <div class="col-md-3 d-flex">
-          	<div class="info bg-light p-4 ">
-          		<p>
-          		<span><font-awesome-icon icon="envelope" /></span> <br>
-	            yuliverjimenez@gmail.com
-          		</p>		            
-	          </div>
-          </div>
+          
           <div class="col-md-3 d-flex">
           	<div class="info bg-light p-4 ">
 	            <span ><font-awesome-icon icon="globe" /></span> <br>
