@@ -18,7 +18,7 @@ export default [
 	 completado: 'AGOS. 2019',
 	 foto: ['cupcake1.png','cupcake2.png','cupcake3.png','cupcake4.png'],
 	 herramientas: 'Bootstrap, CSS',
-     categoria: 'web practica',
+     categoria: 'web',
      id: 2
 	},
 	{
@@ -51,7 +51,7 @@ export default [
 	 completado: "2019",
 	 foto: ['cafeteria1.png','cafeteria2.png','cafeteria3.png','cafeteria4.png','cafeteria5.png'],
 	 herramientas: "Html, CSS, Jquery",
-     categoria: 'diseno web',
+     categoria: 'web',
      id: 5
 	},
 	{
@@ -62,7 +62,7 @@ export default [
 	 completado: "2017",
 	 foto: ['perfil_java.png','perfil_java2.png'],
 	 herramientas: "Java Swing",
-     categoria: 'diseno',
+     categoria: 'escritorio',
      id: 6
 	},
 	{
@@ -73,7 +73,7 @@ export default [
 	 completado: "2017",
 	 foto: ['login_java.png','login_java2.png'],
 	 herramientas: "Java",
-     categoria: 'diseno',
+     categoria: 'escritorio',
      id: 7
 	},
 	{
@@ -84,7 +84,7 @@ export default [
 	 completado: "2019",
 	 foto: ['adop1.png','adop2.png','adop3.png','adop4.png','adop5.png'],
 	 herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
-     categoria: 'web practica',
+     categoria: 'web',
      id: 8
 	},
 	{

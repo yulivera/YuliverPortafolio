@@ -7,14 +7,14 @@
           </div>	          
           <div class="col-md-3 d-flex">
           	<div class="info bg-light p-4 ">
-	          <p>  <span class="icon"><font-awesome-icon icon="map-marker" /></span> <br>
+	          <p>  <span class="icon"><font-awesome-icon icon="map-marker"  /></span> <br>
 	            Barquisimeto, Venezuela</p>		            
 	         </div>
           </div>
           <div class="col-md-3 d-flex">
           	<div class="info bg-light p-4 ">
-	          <p><span><font-awesome-icon icon="phone"  /></span>
-	          <br>+00 555-55-55</p>  
+	          <p><span><font-awesome-icon icon="facebook"  /></span>
+	          <br></p>  
 	          </div>
           </div>
           

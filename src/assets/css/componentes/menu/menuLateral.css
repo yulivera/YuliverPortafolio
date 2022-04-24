@@ -30,7 +30,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 #colorlib-aside {
   padding-top: 3em;
-  padding-bottom: 40px;
+  /* padding-bottom: 40px; */
   padding-left: 3em;
   padding-right: 3em;
   width: 22%;

@@ -15,12 +15,6 @@
                   Web</a></li>
               <li data-filter="escritorio" >
                 <a href="#!">Escritorio</a></li>
-
-                <li data-filter="diseno" >
-                <a href="#!">Diseño</a></li>
-
-                <li data-filter="practica" >
-                <a href="#!">Mis Prácticas</a></li>
             </ul>      
         </div>
         </div>
