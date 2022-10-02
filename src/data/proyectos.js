@@ -21,6 +21,17 @@ export default [
      categoria: 'web',
      id: 2
 	},
+     {
+	 titulo: 'Práctica Laravel 9, Api thecocktaildb',
+	 descripcion: 'Consumiendo API: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita',
+	 cliente: 'Personal',
+	 siteWeb: 'https://github.com/yulivera/apilaravel8',
+	 completado: '2022',
+	 foto: ['laravel9.png'],
+	 herramientas: 'Laravel 9, Api: thecocktaildb',
+     categoria: 'web',
+     id: 3
+	},
 	{
 	 titulo: 'Sistema Basico de Inventario',
 	 descripcion: 'Control de entrada y salida de inventario. Proyecto para practica profesional, para el departamento de telecomunicaciones.',
@@ -30,7 +41,7 @@ export default [
 	 foto: ['inv1.png','inv2.png','inv3.png','inv4.png'],
 	 herramientas: 'Java, Swing, Mysql, JasperReport - ireport',
 	 categoria: 'escritorio',
-	 id: 3
+	 id: 4
 	},
 	{
 	 titulo:' Portafolio Digital',
@@ -41,7 +52,18 @@ export default [
 	 foto: ['miporf1.png','miporf2.png','miporf4.png'],
 	 herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
      categoria: 'web',
-     id: 4
+     id: 5
+	},
+	{
+		titulo: "MANSONRY PORTAFOLIO",
+		descripcion: "CSS GRID columns, row responsive",
+		cliente: "Personal",
+		siteWeb: "https://yulivera.github.io/mansory-portafolio-grid.github.io.o/",
+		completado: "2020",
+		foto: ['muestra1.png','muestra2.png','muestra3.png'],
+		herramientas: "CSS",
+		categoria: 'web',
+		id: 6
 	},
 	{
 	 titulo: "La Cafetería",
@@ -52,7 +74,18 @@ export default [
 	 foto: ['cafeteria1.png','cafeteria2.png','cafeteria3.png','cafeteria4.png','cafeteria5.png'],
 	 herramientas: "Html, CSS, Jquery",
      categoria: 'web',
-     id: 5
+     id: 7
+	},
+	{
+		titulo: "CRUD libros básico",
+		descripcion: "Práctica hacer un CRUD, con PHP , MySql, ajax. Guardar información del libro e imagen de portada.",
+		cliente: "Personal",
+		siteWeb: "https://github.com/yulivera/crud-libros-php",
+		completado: "2021",
+		foto: ['libros/arriba.png','libros/abajo.png','libros/menu.png','libros/respon.png'],
+		herramientas: "PHP, MySql, Ajax, Html, CSS",
+		categoria: 'web',
+		id: 8
 	},
 	{
 	 titulo: "Perfil",
@@ -63,7 +96,7 @@ export default [
 	 foto: ['perfil_java.png','perfil_java2.png'],
 	 herramientas: "Java Swing",
      categoria: 'escritorio',
-     id: 6
+     id: 9
 	},
 	{
 	 titulo: "Login Slider",
@@ -74,7 +107,7 @@ export default [
 	 foto: ['login_java.png','login_java2.png'],
 	 herramientas: "Java",
      categoria: 'escritorio',
-     id: 7
+     id: 10
 	},
 	{
 	 titulo: "Adopta una Mascota",
@@ -85,18 +118,8 @@ export default [
 	 foto: ['adop1.png','adop2.png','adop3.png','adop4.png','adop5.png'],
 	 herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
      categoria: 'web',
-     id: 8
-	},
-	{
-	 titulo: "La Panificadora",
-	 descripcion: "Control de ventas de una panificadora. Proyecto para la asignatura de programación",
-	 cliente: "UNEFA",
-	 siteWeb: "#",
-	 completado: "2016",
-	 foto: ['pana1.png','pana2.png','pana3.png'],
-	 herramientas: "Java, Mysql",
-     categoria: 'escritorio',
-     id: 9
+     id: 11
 	}
+	
 	
 ]

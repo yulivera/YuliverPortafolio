@@ -1,64 +1,65 @@
-<template>  
+<template>
+
 	<section class="ftco-section-no-padding bg-light">
     <div class="hero-wrap">
-      <div class="overlay"></div>   
-			<div class="d-flex ">						
-			   <div id="demo" class="carousel slide text author-image " data-ride="carousel">          
-	    		<ol class="carousel-indicators">
-	    			<li data-target="#demo" data-slide-to="0" class="active"></li>
-	    			<li data-target="#demo" data-slide-to="1"></li>
-	    		</ol>
-	    		<div class="carousel-inner" role="listbox">
-	    			<div class="carousel-item active ">
-	    				<img  class=""  src="/images/pre3.jpeg">
-	    			</div>
-	    			<div class="carousel-item">
-	    				<img class="" src="/images/code2.jpg">
-	    			</div>	    			
-	    		</div>			    				    	
-					</div>         
-					<div class="author-info text mb-5 mt-5 p-3 p-md-5">
-						<div class="desc">
-							<span class="subheading">Hola! Soy</span>
-							<h1 class="big-letter">Yuliver</h1>
-							<h1 class="mb-5">
-								Yuliver B.	 
-							</h1>														 
-							<div class="contact-info mb-5" data-wow-delay="700ms">
-                <a href="#">
-                	<font-awesome-icon icon="envelope" />
-                	 yuliverjimenez@gmail.com
-                </a>
-                <a href="#">                         
-                	<font-awesome-icon icon="map-marker" />
-                Barquisimeto-Venezuela</a>
-              </div>                        
-              <ul class="ftco-social mt-2">
+      <div class="overlay"></div> 
+			  
+        <div class="d-flex js-fullheight align-items-center">
+          
+          <div class="author-image text img js-fullheight"
+          style="background-image: url(images/pre3.jpeg);
+          ">
+          </div> 
+                <!-- info user autor -->
+          <div class="author-info text p-3 p-md-5">
+							<div class="desc">
+								<span class="subheading">Hola, mi nombre es: </span>
+								<h1 class="big-letter">Yuliver</h1>
+								<h1 class="mb-4">
+									<!--<span>Yuliver</span>-->
+                  Yuliver
+								</h1>
+                <div class="contact-info mb-5 mt-5" data-wow-delay="700ms">
+                  <a href="#">                         
+                  <font-awesome-icon icon="map-marker" />
+                  Venezuela-Barquisimeto</a>
+                </div>
+
+                <p class="mb-4">Desarrollador Web</p>
+								
+								<!-- icon social -->
+								<ul class="ftco-social mt-2 " v-vue-aos.once="{animationClass:'fadeIn animated'}">
                 <li class="">
-                  <a href="http://www.linkedin.com/in/yuliver-bracho">
+                  <a href="http://www.linkedin.com/in/yuliver-bracho" target="_blank">
                     <span>                    
                     <img src="/images/social/in20.png">
-                  </span></a>                   
-                  </li>
-                 <li><a href="https://www.facebook.com/andreinajimen">
+                    </span></a>                   
+                </li>
+                <li><a href="https://www.facebook.com/andreinajimen" target="_blank">
                   <span>
-                    <img src="/images/social/fa20.png">
+                  <img src="/images/social/fa20.png">
                   </span></a></li>
-                 <li><a href="https://github.com/yulivera">
+                <li><a href="https://github.com/yulivera" target="_blank">
                   <span>
-                    <img src="/images/social/git20.png">
+                  <img src="/images/social/git20.png">
                   </span></a></li>
-               </ul>         
-                <img class="firma" src="images/fuente.png">
-              </div>
-              <!-- <a class="button type1" href="https://drive.google.com/file/d/1PLr3-Enea-C86BJXRPCRQlWEEhdD8Ahq/view?usp=sharing">Descargar CV</a> -->
-	           </div>
-					 </div>
-				</div>
-			</section>
+              </ul>
+	            </div>
+						</div>
+
+			</div>
+      
+		</div>
+
+    
+	</section>
+  
 </template>
 
 <script>
+
+
+// author-info text p-3
 export default {
 
   name: 'Presentacion2',
@@ -69,9 +70,21 @@ export default {
     }
   },
   mounted() {
-     $('.carousel').carousel({
-       interval: 4000
-     })
+    //  $('.carousel').carousel({
+    //    interval: 4000
+    //  })
+
+    var fullHeight = function() {
+
+		$('.js-fullheight').css('height', $(window).height());
+		$(window).resize(function(){
+			$('.js-fullheight').css('height', $(window).height());
+		});
+
+	};
+	fullHeight();
+
+
   } 
 }
 </script>

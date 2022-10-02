@@ -30,7 +30,6 @@
 .resume-list li:last-child {
 	margin-bottom: 0;
 }
-
 .resume-list li:after {
 	position: absolute;
 	content: '';

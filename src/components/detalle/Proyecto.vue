@@ -24,11 +24,7 @@
               <h4>{{proyecto.titulo}}</h4> 
               <p>{{proyecto.descripcion}}</p>
               <ul class="list">
-                <li><span>Rating</span>:
-                  <i>
-                    <font-awesome-icon icon="star" v-for="(star,index) in 5" :key="index" /> 
-                  </i>             
-                </li>
+                
                 <li><span>Cliente</span>: 
                 {{proyecto.cliente}}</li>
                 <li>

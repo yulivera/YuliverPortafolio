@@ -1,6 +1,7 @@
 <template>
 	<div id="app">
 		<MenuLateral></MenuLateral>
+    
 	</div>
 </template>
 

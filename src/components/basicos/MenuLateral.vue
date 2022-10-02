@@ -26,15 +26,14 @@
 			</nav>
 		</aside> 
 		<div id="colorlib-main">
-		<router-view/>
-    <Footer1></Footer1>      
+			<router-view/>
+        
+		
 		</div>	 	
   </div>
 </template>
 
 <script>
-
-import Footer1 from '@/components/basicos/Footer1.vue'
 
 
 	export default {
@@ -46,7 +45,7 @@ import Footer1 from '@/components/basicos/Footer1.vue'
        	}
        },
        components: {
-       Footer1
+       
        },
        mounted(){
          this.mobileMenuOutsideClick();

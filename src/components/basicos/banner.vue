@@ -2,7 +2,8 @@
   <section class="ftco-section ftco-bread">    
     <div class="container">
       <div class="row no-gutters slider-text justify-content-center align-items-center">
-  		  <div class="col-md-8 ">
+  		  <div class="col-md-8" v-vue-aos.once="{animationClass:'fadeIn animated'}">
+		  
   		    <p class="breadcrumbs">
   		    	<span class="mr-2">
   		    	<a @click="home"  >Inicio</a>
