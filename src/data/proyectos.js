@@ -55,7 +55,7 @@ export default [
      id: 5
 	},
 	{
-		titulo: "MANSONRY PORTAFOLIO",
+		titulo: "MASONRY CSS PORTAFOLIO",
 		descripcion: "CSS GRID columns, row responsive",
 		cliente: "Personal",
 		siteWeb: "https://yulivera.github.io/mansory-portafolio-grid.github.io.o/",
