@@ -29,7 +29,7 @@
                 {{proyecto.cliente}}</li>
                 <li>
                   <span>Sitio</span>:
-                  <a :href="proyecto.siteWeb">
+                  <a :href="proyecto.siteWeb" target="_blank">
                   {{proyecto.siteWeb}}</a>      
                 </li>
                 <li><span>Completado</span>: 
