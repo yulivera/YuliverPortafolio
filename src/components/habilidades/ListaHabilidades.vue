@@ -1,39 +1,40 @@
 <template>
-  <section class="ftco-section habilidad-section" id="skills-section">  
+  <section class="ftco-section habilidad-section" id="skills-section">
     <div class="container">
       <div class="row">
-        <div v-for="(list,index) in habilidades" :key="index" class="col-md-6">
-          <div class="progress-wrap ">
-            <h3>{{list.nombre}}</h3>
+        <div v-for="(list, index) in habilidades" :key="index" class="col-md-6">
+          <div class="progress-wrap">
+            <h3>{{ list.nombre }}</h3>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" aria-valuenow="90"
-                  aria-valuemin="0" aria-valuemax="100" 
-                  :style="{'width': list.porcentaje +'%'}">
-                  <span>{{list.porcentaje}}%</span>
+              <div
+                class="progress-bar"
+                role="progressbar"
+                aria-valuenow="90"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                :style="{ width: list.porcentaje + '%' }"
+              >
+                <span>{{ list.porcentaje }}%</span>
               </div>
             </div>
           </div>
-        </div>          
+        </div>
       </div>
     </div>
   </section>
 </template>
 
 <script>
-
-import { mapState}  from 'vuex'
+import { mapState } from "vuex";
 
 export default {
+  name: "ListaHabilidades",
 
-  name: 'ListaHabilidades',
-
-  data () {
-    return {
-
-    }
+  data() {
+    return {};
   },
   computed: {
-     ...mapState(['habilidades'])
-  }
-}
+    ...mapState(["habilidades"]),
+  },
+};
 </script>

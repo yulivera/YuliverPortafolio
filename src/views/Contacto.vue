@@ -1,28 +1,22 @@
 <template>
-	<div class="SectionContac">
-		<banner titulo="Contacto"></banner>
-	  <MyContacto></MyContacto>   
-	</div> 
+  <div class="SectionContac">
+    <banner titulo="Contacto"></banner>
+    <MyContacto></MyContacto>
+  </div>
 </template>
 
 <script>
-
-import banner from '@/components/basicos/banner.vue'
-import MyContacto from '@/components/contacto/MyContacto.vue'
-
+import banner from "@/components/basicos/banner.vue";
+import MyContacto from "@/components/contacto/MyContacto.vue";
 
 export default {
-
-  name: 'Contacto',
+  name: "Contacto",
   components: {
     banner,
-    MyContacto
-    
+    MyContacto,
   },
-  data () {
-    return {
-
-    }
-  }
-}
+  data() {
+    return {};
+  },
+};
 </script>

@@ -8,8 +8,8 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-  	proyectos,
-  	habilidades
+    proyectos,
+    habilidades
   },
   mutations: {
   },

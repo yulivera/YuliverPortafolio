@@ -1,0 +1,2 @@
+fa-font-awesome con vue con brands free
+<font-awesome-icon :icon="[ 'fab', 'vuejs' ]" />
