@@ -22,11 +22,17 @@ import {
 
   from '@fortawesome/free-solid-svg-icons'
 
-import { faHtml5, faGit, faPhp, faNode, faJava, faCss3, faJs, faBootstrap, faVuejs } from '@fortawesome/free-brands-svg-icons'
+import {
+  faGithub, faHtml5, faGit, faPhp, faNode, faJava, faCss3, faJs,
+  faBootstrap, faVuejs, faLinkedin, faFacebook
+}
+
+  from '@fortawesome/free-brands-svg-icons'
+
 library.add(faStar, faPhone, faMapMarker, faHeart, faEnvelope, faGlobe,
   faLocationArrow, faLink, faCoffee, faSmile, faAddressBook, faUser, faHome,
   faHtml5, faGit, faPhp, faNode, faJava, faCss3, faJs, faBootstrap,
-  faVuejs
+  faVuejs, faGithub, faLinkedin, faFacebook
 )
 
 

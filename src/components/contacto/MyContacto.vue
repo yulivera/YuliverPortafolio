@@ -15,7 +15,7 @@
         </div>
         <div class="col-md-3 d-flex">
           <div class="info bg-light p-4">
-            <span> <font-awesome-icon icon="address-book" /></span>
+            <span> <font-awesome-icon :icon="['fab', 'github']" /></span>
             <br />
             <a href="https://github.com/yulivera" target="_blank">Github/yulivera</a>
           </div>
@@ -23,17 +23,17 @@
 
         <div class="col-md-3 d-flex">
           <div class="info bg-light p-4">
-            <span><font-awesome-icon icon="user" /></span>
+            <span><font-awesome-icon :icon="['fab','facebook']" /></span>
             <br />
             <a href="https://www.facebook.com/andreinajimen" target="_blank"
-              >Facebook/andreinajimen</a
+              >andreinajimen</a
             >
           </div>
         </div>
 
         <div class="col-md-3 d-flex">
           <div class="info bg-light p-4">
-            <span><font-awesome-icon icon="globe" /></span> <br />
+            <span><font-awesome-icon :icon="['fab','linkedin']" /></span> <br />
             <a href="http://www.linkedin.com/in/yuliver-bracho" target="_blank"
               >Yuliver Bracho</a
             >
