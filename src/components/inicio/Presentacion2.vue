@@ -24,8 +24,6 @@
               >
             </div>
 
-            <p class="mb-4">Desarrollador Web</p>
-
             <!-- icon social -->
             <ul
               class="ftco-social mt-2"
