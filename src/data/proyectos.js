@@ -11,17 +11,6 @@ export default [
 		id: 1
 	},
 	{
-		titulo: 'CupCake',
-		descripcion: 'Diseño aprendiendo Bootstrap',
-		cliente: 'Personal',
-		siteWeb: '#',
-		completado: 'AGOS. 2019',
-		foto: ['cupcake1.png', 'cupcake2.png', 'cupcake3.png', 'cupcake4.png'],
-		herramientas: 'Bootstrap, CSS',
-		categoria: 'web',
-		id: 2
-	},
-	{
 		titulo: 'Práctica Laravel 9, Api thecocktaildb',
 		descripcion: 'Consumiendo API: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita',
 		cliente: 'Personal',
@@ -88,38 +77,14 @@ export default [
 		id: 8
 	},
 	{
-		titulo: "Perfil",
-		descripcion: "Utilizando librerias java para el diseño",
-		cliente: "Estudiante",
-		siteWeb: "#",
-		completado: "2017",
-		foto: ['perfil_java.png', 'perfil_java2.png'],
-		herramientas: "Java Swing",
-		categoria: 'escritorio',
-		id: 9
-	},
-	{
-		titulo: "Login Slider",
-		descripcion: "Utilizando libreria Panel Slider de java",
-		cliente: "Estudiante",
-		siteWeb: "#",
-		completado: "2017",
-		foto: ['login_java.png', 'login_java2.png'],
-		herramientas: "Java",
-		categoria: 'escritorio',
-		id: 10
-	},
-	{
 		titulo: "Adopta una Mascota",
 		descripcion: "Ejemplo Práctico. Curso Vue js para principiante",
 		cliente: "Ej. Practico",
-		siteWeb: "https://adopcionpets.herokuapp.com/",
+		siteWeb: "#",
 		completado: "2019",
 		foto: ['adop1.png', 'adop2.png', 'adop3.png', 'adop4.png', 'adop5.png'],
 		herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
 		categoria: 'web',
 		id: 11
 	}
-
-
 ]
