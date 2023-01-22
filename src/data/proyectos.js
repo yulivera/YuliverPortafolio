@@ -10,16 +10,17 @@ export default [
 		categoria: 'web',
 		id: 1
 	},
+	
 	{
-		titulo: 'Práctica Laravel 9, Api thecocktaildb',
-		descripcion: 'Consumiendo API: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita',
-		cliente: 'Personal',
-		siteWeb: 'https://github.com/yulivera/apilaravel8',
-		completado: '2022',
-		foto: ['laravel9.png'],
-		herramientas: 'Laravel 9, Api: thecocktaildb',
+		titulo: ' Portafolio Digital',
+		descripcion: 'Mi portafolio digital',
+		cliente: 'Yuliver :)',
+		siteWeb: '',
+		completado: 'OCT. 2019',
+		foto: ['miporf1.png', 'miporf2.png', 'miporf4.png'],
+		herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
 		categoria: 'web',
-		id: 3
+		id: 2
 	},
 	{
 		titulo: 'Sistema Básico de Inventario',
@@ -30,18 +31,7 @@ export default [
 		foto: ['inv1.png', 'inv2.png', 'inv3.png', 'inv4.png'],
 		herramientas: 'Java, Swing, Mysql, JasperReport - ireport',
 		categoria: 'escritorio',
-		id: 4
-	},
-	{
-		titulo: ' Portafolio Digital',
-		descripcion: 'Mi portafolio digital',
-		cliente: 'Yuliver :)',
-		siteWeb: '',
-		completado: 'OCT. 2019',
-		foto: ['miporf1.png', 'miporf2.png', 'miporf4.png'],
-		herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
-		categoria: 'web',
-		id: 5
+		id: 3
 	},
 	{
 		titulo: "MASONRY CSS PORTAFOLIO",
@@ -52,7 +42,7 @@ export default [
 		foto: ['muestra1.png', 'muestra2.png', 'muestra3.png'],
 		herramientas: "CSS",
 		categoria: 'web',
-		id: 6
+		id: 4
 	},
 	{
 		titulo: "La Cafetería",
@@ -63,7 +53,7 @@ export default [
 		foto: ['cafeteria1.png', 'cafeteria2.png', 'cafeteria3.png', 'cafeteria4.png', 'cafeteria5.png'],
 		herramientas: "Html, CSS, Jquery",
 		categoria: 'web',
-		id: 7
+		id: 5
 	},
 	{
 		titulo: "CRUD libros básico",
@@ -74,7 +64,7 @@ export default [
 		foto: ['libros/arriba.png', 'libros/abajo.png', 'libros/menu.png', 'libros/respon.png'],
 		herramientas: "PHP, MySql, Ajax, Html, CSS",
 		categoria: 'web',
-		id: 8
+		id: 6
 	},
 	{
 		titulo: "Adopta una Mascota",
@@ -85,6 +75,6 @@ export default [
 		foto: ['adop1.png', 'adop2.png', 'adop3.png', 'adop4.png', 'adop5.png'],
 		herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
 		categoria: 'web',
-		id: 11
+		id: 7
 	}
 ]
