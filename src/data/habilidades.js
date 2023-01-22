@@ -1,7 +1,11 @@
 export default [
 	{
 		nombre: 'Java',
-		porcentaje: 40,
+		porcentaje: 30,
+	},
+	{
+		nombre: 'Spring Boot',
+		porcentaje: 20,
 	},
 	{
 		nombre: 'PHP',
@@ -29,7 +33,7 @@ export default [
 	},
 	{
 		nombre: 'Vue js',
-		porcentaje: 40,
+		porcentaje: 20,
 	},
 	{
 		nombre: 'Bootstrap',
