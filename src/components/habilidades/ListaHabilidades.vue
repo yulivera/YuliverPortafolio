@@ -6,7 +6,6 @@
           <div class="progress-wrap">
             <h3>{{ list.nombre }}</h3>
             
-
           </div>
         </div>
       </div>

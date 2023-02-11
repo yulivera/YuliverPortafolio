@@ -7,7 +7,7 @@
           class="author-image text img p-md-4"
           style="background-image: url(images/pc.jpg)"
         ></div>
-        <div class="author-info text mt-3 mb-5 p-3 p-md-5">
+        <div class="author-info text mt-3 p-3 p-md-5 mb-15">
           <div class="desc">
             <span class="subheading">Hola! </span>
             <h1 class="big-letter">Yuliver</h1>

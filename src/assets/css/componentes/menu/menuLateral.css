@@ -1,4 +1,3 @@
- 
 body.offcanvas #colorlib-aside {
   -moz-transform: translateX(0);
   -webkit-transform: translateX(0);
@@ -14,7 +13,6 @@ body.offcanvas #colorlib-aside {
 }
 
 body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
-  top: 0;
   -moz-transform: translateX(270px);
   -webkit-transform: translateX(270px);
   -ms-transform: translateX(270px);
@@ -186,7 +184,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .colorlib-nav-toggle {
   cursor: pointer;
-  text-decoration: none; }
+  text-decoration: none; 
+}
 
   .colorlib-nav-toggle.active i::before, .colorlib-nav-toggle.active i::after {
     background: #000000; }
@@ -200,8 +199,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   .colorlib-nav-toggle i {
     position: relative;
     display: inline-block;
-    width: 30px;
-    height: 2px;
+    width: 43px;
+    height: 2.2px;
     color: #000000;
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
@@ -213,8 +212,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   }
     .colorlib-nav-toggle i::before, .colorlib-nav-toggle i::after {
       content: '';
-      width: 30px;
-      height: 2px;
+      width: 43px;
+      height: 2.2px;
       background: #000000;
       position: absolute;
       left: 0;
@@ -226,13 +225,13 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   
 
 .colorlib-nav-toggle i::before {
-  top: -7px; }
+  top: -10px; }
 
 .colorlib-nav-toggle i::after {
-  bottom: -7px; }
+  bottom: -8px; }
 
 .colorlib-nav-toggle:hover i::before {
-  top: -10px; }
+  top: -12px; }
 
 .colorlib-nav-toggle:hover i::after {
   bottom: -10px; }
@@ -257,21 +256,23 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   transform: rotateZ(-45deg); }
 
 .colorlib-nav-toggle {
+  background-color: #cbc190;
+  border-radius: 10%;  
   position: fixed;
-  left: -12px;
-  top: 0px;
+  top: 5px;
+  left: 5px;
   z-index: 9999;
   cursor: pointer;
-  opacity: 1;
   visibility: hidden;
-  padding: 20px;
+  padding: 15px;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease; }
+
   @media (max-width: 991.98px) {
     .colorlib-nav-toggle {
-      opacity: 1;
+      opacity: 0.8;
       visibility: visible; } }
 

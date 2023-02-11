@@ -1,8 +1,8 @@
 <template>
-  <section class="resume-section with-bg spad">
+  <section class="resume-section with-bg spad mb-3">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-xl-7 offset-xl-2">
+        <div class="col-xl-7 offset-xl-2 mb-5 p-sm">
           <div class="section-title text-center">
             <h2 class="subTitulo">Educación</h2>
           </div>

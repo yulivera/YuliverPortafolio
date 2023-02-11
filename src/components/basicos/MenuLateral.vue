@@ -1,5 +1,6 @@
 <template>
   <div id="colorlib-page">
+    <!-- botton menu -->
     <a @click="burgerMenu" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
     <aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
       <!-- logo -->
