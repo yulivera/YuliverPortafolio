@@ -1,14 +1,10 @@
-export default [
-	{
-		nombre: 'Java',
-		porcentaje: 30,
-	},
-	{
-		nombre: 'Spring Boot',
-		porcentaje: 20,
-	},
+export default [	
 	{
 		nombre: 'PHP',
+		porcentaje: 55,
+	},
+	{
+		nombre: 'Laravel',
 		porcentaje: 55,
 	},
 	{
@@ -20,7 +16,11 @@ export default [
 		porcentaje: 55,
 	},
 	{
-		nombre: 'HTML/CSS',
+		nombre: 'HTML5',
+		porcentaje: 70,
+	},
+	{
+		nombre: 'CSS',
 		porcentaje: 70,
 	},
 	{
@@ -36,12 +36,20 @@ export default [
 		porcentaje: 20,
 	},
 	{
-		nombre: 'Bootstrap',
+		nombre: 'Bootstrap 4',
 		porcentaje: 60,
 	},
 	{
 		nombre: 'Git',
 		porcentaje: 50
+	},
+	{
+		nombre: 'Java',
+		porcentaje: 30,
+	},
+	{
+		nombre: 'Spring Boot',
+		porcentaje: 20,
 	}
 
 ]
