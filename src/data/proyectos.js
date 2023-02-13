@@ -18,7 +18,7 @@ export default [
 		siteWeb: '',
 		completado: 'OCT. 2019',
 		foto: ['miporf1.png', 'miporf2.png', 'miporf4.png'],
-		herramientas: 'Vue js, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
+		herramientas: 'Vue js 2.6.10, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
 		categoria: 'web',
 		id: 2
 	},
@@ -70,10 +70,10 @@ export default [
 		titulo: "Adopta una Mascota",
 		descripcion: "Ejemplo Práctico. Curso Vue js para principiante",
 		cliente: "Ej. Practico",
-		siteWeb: "#",
+		siteWeb: "https://github.com/yulivera/AdopcionPets",
 		completado: "2019",
 		foto: ['adop1.png', 'adop2.png', 'adop3.png', 'adop4.png', 'adop5.png'],
-		herramientas: "Vue js, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
+		herramientas: "Vue js 2, Vue Router, Vuex, Bootstrap-vue, JavaScrip, CSS.",
 		categoria: 'web',
 		id: 7
 	}
