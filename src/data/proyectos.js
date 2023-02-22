@@ -1,5 +1,16 @@
 export default [
 	{
+		titulo: "App Check List",
+		descripcion: "Practica crear app List ckeck ",
+		cliente: "LARAVEL - VUE  JS",
+		siteWeb: "https://github.com/yulivera/app-list-check-laravelApi-vue",
+		completado: "2023",
+		foto: ['demo3.png', 'demo2.png'],
+		herramientas: "Laravel, MySql, Vue js 3, Axios, Bootstrap",
+		categoria: 'web',
+		id: 8
+	},
+	{
 		titulo: "Sistema Veterinaria VET-PET",
 		descripcion: "Sistema para la gestión de clínica veterinaria.",
 		cliente: "VET-PET",
