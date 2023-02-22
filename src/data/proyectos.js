@@ -1,11 +1,11 @@
 export default [
 	{
 		titulo: "App Check List",
-		descripcion: "Practica crear app List ckeck ",
+		descripcion: "Práctica crear app List ckeck ",
 		cliente: "LARAVEL - VUE  JS",
 		siteWeb: "https://github.com/yulivera/app-list-check-laravelApi-vue",
 		completado: "2023",
-		foto: ['demo3.png', 'demo2.png'],
+		foto: ['demo3.png', 'demo4.png'],
 		herramientas: "Laravel, MySql, Vue js 3, Axios, Bootstrap",
 		categoria: 'web',
 		id: 8
