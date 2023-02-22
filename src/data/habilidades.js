@@ -50,6 +50,10 @@ export default [
 	{
 		nombre: 'Spring Boot',
 		porcentaje: 20,
+	},
+	{
+		nombre: 'NPM',
+		porcentaje: 20,
 	}
 
 ]
