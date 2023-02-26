@@ -2,7 +2,7 @@ export default [
 	{
 		titulo: "App Check List",
 		descripcion: "Práctica crear app List ckeck ",
-		cliente: "LARAVEL - VUE  JS",
+		cliente: "LARAVEL - VUE JS 3",
 		siteWeb: "https://github.com/yulivera/app-list-check-laravelApi-vue",
 		completado: "2023",
 		foto: ['demo3.png', 'demo4.png'],
@@ -13,7 +13,7 @@ export default [
 	{
 		titulo: "Sistema Veterinaria VET-PET",
 		descripcion: "Sistema para la gestión de clínica veterinaria.",
-		cliente: "VET-PET",
+		cliente: "PHP - MySql",
 		siteWeb: "https://youtu.be/Dv2EfwtLeAA",
 		completado: "2021",
 		foto: ['vet_pet_1.png', 'vet_pet_3.png', 'vet_pet_2.png', 'vet_pet_4.png', 'vet_pet_5.png', 'vet_pet_6.png', 'vet_pet_7.png', 'vet_pet_8.png'],
@@ -25,7 +25,7 @@ export default [
 	{
 		titulo: ' Portafolio Digital',
 		descripcion: 'Mi portafolio digital',
-		cliente: 'Yuliver :)',
+		cliente: 'VUE JS 2',
 		siteWeb: '',
 		completado: 'OCT. 2019',
 		foto: ['miporf1.png', 'miporf2.png', 'miporf4.png'],
@@ -36,7 +36,7 @@ export default [
 	{
 		titulo: 'Sistema Básico de Inventario',
 		descripcion: 'Control de entrada y salida de inventario. Proyecto para práctica profesional, para el departamento de telecomunicaciones.',
-		cliente: 'CORPOELEC - UNEFA',
+		cliente: 'Java - MySql',
 		siteWeb: 'https://youtu.be/m-gsd9N96SM',
 		completado: '2017',
 		foto: ['inv1.png', 'inv2.png', 'inv3.png', 'inv4.png'],
@@ -47,7 +47,7 @@ export default [
 	{
 		titulo: "MASONRY CSS PORTAFOLIO",
 		descripcion: "CSS GRID columns, row responsive",
-		cliente: "Personal",
+		cliente: "CSS Grid",
 		siteWeb: "https://yulivera.github.io/mansory-portafolio-grid.github.io.o/",
 		completado: "2020",
 		foto: ['muestra1.png', 'muestra2.png', 'muestra3.png'],
@@ -57,8 +57,8 @@ export default [
 	},
 	{
 		titulo: "La Cafetería",
-		descripcion: "Diseño web cafetería",
-		cliente: "Estudiante",
+		descripcion: "Diseño web de práctica de cafetería",
+		cliente: "Html - CSS",
 		siteWeb: "https://yulivera.github.io/cafeteria.github.io.o/",
 		completado: "2019",
 		foto: ['cafeteria1.png', 'cafeteria2.png', 'cafeteria3.png', 'cafeteria4.png', 'cafeteria5.png'],
@@ -69,7 +69,7 @@ export default [
 	{
 		titulo: "CRUD libros básico",
 		descripcion: "Práctica hacer un CRUD, con PHP , MySql, ajax. Guardar información del libro e imagen de portada.",
-		cliente: "Personal",
+		cliente: "PHP - MySql",
 		siteWeb: "https://github.com/yulivera/crud-libros-php",
 		completado: "2021",
 		foto: ['libros/arriba.png', 'libros/abajo.png', 'libros/menu.png', 'libros/respon.png'],
@@ -80,7 +80,7 @@ export default [
 	{
 		titulo: "Adopta una Mascota",
 		descripcion: "Ejemplo Práctico. Curso Vue js para principiante",
-		cliente: "Ej. Practico",
+		cliente: "VUE JS 2",
 		siteWeb: "https://github.com/yulivera/AdopcionPets",
 		completado: "2019",
 		foto: ['adop1.png', 'adop2.png', 'adop3.png', 'adop4.png', 'adop5.png'],

@@ -32,7 +32,6 @@
                 <h4>{{ proyecto.titulo }}</h4>
                 <p>{{ proyecto.descripcion }}</p>
                 <ul class="list">
-                  <li><span>Cliente</span>: {{ proyecto.cliente }}</li>
                   <li>
                     <span>Sitio</span>:
                     <a :href="proyecto.siteWeb" target="_blank">
