@@ -1,16 +1,5 @@
 export default [
 	{
-		titulo: "Menu Digital con codigo Qr",
-		descripcion: "Menu digital, generar qr de dominio, enviar orden de pedido al whatsapp",
-		cliente: "VUE JS 3",
-		siteWeb: "https://menu-digital-static-web.vercel.app/",
-		completado: "2023",
-		foto: ['menu/menu1.jpg', 'menu/menu2.jpg','menu/menu3.jpg'],
-		herramientas: "Vue js 3, Pinia ,Bootstrap 5",
-		categoria: 'web',
-		id: 9
-	},
-	{
 		titulo: "App Check List",
 		descripcion: "Práctica crear app List ckeck ",
 		cliente: "LARAVEL - VUE JS 3",
