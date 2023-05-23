@@ -199,7 +199,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   .colorlib-nav-toggle i {
     position: relative;
     display: inline-block;
-    width: 43px;
+    width: 35px;
     height: 2.2px;
     color: #000000;
     font: bold 14px/.4 Helvetica;
@@ -212,7 +212,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   }
     .colorlib-nav-toggle i::before, .colorlib-nav-toggle i::after {
       content: '';
-      width: 43px;
+      width: 35px;
       height: 2.2px;
       background: #000000;
       position: absolute;
@@ -264,7 +264,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   z-index: 9999;
   cursor: pointer;
   visibility: hidden;
-  padding: 15px;
+  padding: 5px  10px 10px 10px;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;

@@ -36,24 +36,11 @@ export default [
 		porcentaje: 20,
 	},
 	{
-		nombre: 'Bootstrap 4',
+		nombre: 'Bootstrap',
 		porcentaje: 60,
 	},
 	{
 		nombre: 'Git',
 		porcentaje: 50
-	},
-	{
-		nombre: 'Java',
-		porcentaje: 30,
-	},
-	{
-		nombre: 'Spring Boot',
-		porcentaje: 20,
-	},
-	{
-		nombre: 'NPM',
-		porcentaje: 20,
 	}
-
 ]

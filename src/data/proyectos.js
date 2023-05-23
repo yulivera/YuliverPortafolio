@@ -12,12 +12,12 @@ export default [
 	},
 	{
 		titulo: "Sistema Veterinaria VET-PET",
-		descripcion: "Sistema para la gestión de clínica veterinaria.",
+		descripcion: "Sistema para la gestión de clínica veterinaria y pagina web.",
 		cliente: "PHP - MySql",
-		siteWeb: "https://youtu.be/Dv2EfwtLeAA",
-		completado: "2021",
-		foto: ['vet_pet_1.png', 'vet_pet_3.png', 'vet_pet_2.png', 'vet_pet_4.png', 'vet_pet_5.png', 'vet_pet_6.png', 'vet_pet_7.png', 'vet_pet_8.png'],
-		herramientas: "PHP, MySql, Bootstrap v4, Ajax, Jquery, MVC",
+		siteWeb: "https://youtu.be/Em85axTrJzo",
+		completado: "2023",
+		foto: ['vetapp/vetapp1.jpg', 'vetapp/vetapp2.png', 'vetapp/vetapp3.png', 'vetapp/vetapp4.png', 'vetapp/vetapp5.jpg' ],
+		herramientas: "PHP 7.4, MySql, Bootstrap v4, Ajax, Jquery, MVC",
 		categoria: 'web',
 		id: 1
 	},

@@ -38,7 +38,6 @@
                       {{ proyecto.siteWeb }}</a
                     >
                   </li>
-                  <li><span>Completado</span>: {{ proyecto.completado }}</li>
                   <li><span>Herramientas</span>: {{ proyecto.herramientas }}</li>
                 </ul>
               </div>
