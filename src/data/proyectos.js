@@ -1,5 +1,16 @@
 export default [
 	{
+		titulo: "Menú Web",
+		descripcion: "Práctica: creando Menú web",
+		cliente: "LARAVEL 10",
+		siteWeb: "https://youtu.be/tuKiQR_o7cA",
+		completado: "2023",
+		foto: ['menu/menu.jpg'],
+		herramientas: "Panel administrativo con Laravel v10, Blade, JavaScript, MySQL.",
+		categoria: 'web',
+		id: 9
+	},
+	{
 		titulo: "App Check List",
 		descripcion: "Práctica crear app List ckeck ",
 		cliente: "LARAVEL - VUE JS 3",
@@ -32,17 +43,6 @@ export default [
 		herramientas: 'Vue js 2.6.10, Vue Router, Vuex, Html, CSS, JavaScrip, Jquery, Bootstrap',
 		categoria: 'web',
 		id: 2
-	},
-	{
-		titulo: 'Sistema Básico de Inventario',
-		descripcion: 'Control de entrada y salida de inventario. Proyecto para práctica profesional, para el departamento de telecomunicaciones.',
-		cliente: 'Java - MySql',
-		siteWeb: 'https://youtu.be/m-gsd9N96SM',
-		completado: '2017',
-		foto: ['inv1.png', 'inv2.png', 'inv3.png', 'inv4.png'],
-		herramientas: 'Java, Swing, Mysql, JasperReport - ireport',
-		categoria: 'escritorio',
-		id: 3
 	},
 	{
 		titulo: "MASONRY CSS PORTAFOLIO",

@@ -1,24 +1,7 @@
 <template>
   <section class="ftco-section-3 portfolio-section">
     <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="portfolioFilter">
-            <ul class="filters">
-              <li class="active" data-filter="all">
-                <a href="#!"> Todo </a>
-              </li>
-              <li data-filter="web">
-                <a href="#!"> Web</a>
-              </li>
-              <li data-filter="escritorio">
-                <a href="#!">Escritorio</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="projects">
+      <div class="projects mt-4">
         <div class="row">
           <div
             v-for="(proyecto, index) of proyectos"
