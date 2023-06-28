@@ -1,12 +1,12 @@
 export default [
 	{
 		titulo: "Menú Web",
-		descripcion: "Práctica: creando Menú web",
+		descripcion: "Práctica: creando panel administrativo para Menú web con Laravel 10 ",
 		cliente: "LARAVEL 10",
 		siteWeb: "https://youtu.be/tuKiQR_o7cA",
 		completado: "2023",
 		foto: ['menu/menu.jpg'],
-		herramientas: "Panel administrativo con Laravel v10, Blade, JavaScript, MySQL.",
+		herramientas: "Panel administrativo con Laravel v10, Blade, JavaScript, MySQL, CSS, Html, Bootstrap v5.",
 		categoria: 'web',
 		id: 9
 	},
