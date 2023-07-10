@@ -42,5 +42,9 @@ export default [
 	{
 		nombre: 'Git',
 		porcentaje: 50
+	},
+	{
+		nombre: 'GitHub',
+		porcentaje: 50
 	}
 ]

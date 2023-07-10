@@ -33,7 +33,7 @@
                 <p>{{ proyecto.descripcion }}</p>
                 <ul class="list">
                   <li>
-                    <span>Sitio</span>:
+                    <span>Demostración</span>:
                     <a :href="proyecto.siteWeb" target="_blank">
                       {{ proyecto.siteWeb }}</a
                     >

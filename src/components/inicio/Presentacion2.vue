@@ -36,12 +36,6 @@
                 ></a>
               </li>
               <li>
-                <a href="https://www.facebook.com/andreinajimen" target="_blank">
-                  <span>
-                    <img src="/images/social/fa20.png" /> </span
-                ></a>
-              </li>
-              <li>
                 <a href="https://github.com/yulivera" target="_blank">
                   <span>
                     <img src="/images/social/git20.png" /> </span
@@ -64,10 +58,6 @@ export default {
     return {};
   },
   mounted() {
-    //  $('.carousel').carousel({
-    //    interval: 4000
-    //  })
-
     var fullHeight = function () {
       $(".js-fullheight").css("height", $(window).height());
       $(window).resize(function () {
