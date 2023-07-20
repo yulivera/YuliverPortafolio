@@ -1,7 +1,7 @@
 export default [
 	{
 		titulo: "Menú Web",
-		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas caracteristicas estan: Autenticación, recuperación de contraseña, cierre de sessión, gestión de categorias y productos, generador de codigo QR para menú, informción del negocio como horario, redes sociales.",
+		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas caracteristicas estan: Autenticación, recuperación de contraseña, cierre de sessión, gestión de categorias y productos, generador de codigo QR para menú, información del negocio como horario, redes sociales. Proyecto realizado entre Abril y Junio de 2023",
 		cliente: "LARAVEL 10",
 		siteWeb: "https://youtu.be/tuKiQR_o7cA",
 		completado: "2023",
@@ -23,7 +23,7 @@ export default [
 	},
 	{
 		titulo: "Sistema Veterinaria VET-PET",
-		descripcion: "Sistema para la gestión de clínica veterinaria y página web. Algunas funciones tenemos: Autenticación, recuperación de contraseña, cierre de sessión, gestión de mascotas, vacunas, especies, crear citas, modulo de venta.",
+		descripcion: "Sistema para la gestión de clínica veterinaria y página web. Algunas funciones tenemos: Autenticación, recuperación de contraseña, cierre de sessión, gestión de mascotas, vacunas, especies, crear citas, modulo de venta. Proyeto realizado en 2021, integración de pagina web en Febrero de 2023",
 		cliente: "PHP - MySql",
 		siteWeb: "https://youtu.be/Em85axTrJzo",
 		completado: "2023",
