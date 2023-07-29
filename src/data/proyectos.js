@@ -1,14 +1,25 @@
 export default [
 	{
 		titulo: "Menú Web",
-		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas caracteristicas estan: Autenticación, recuperación de contraseña, cierre de sessión, gestión de categorias y productos, generador de codigo QR para menú, información del negocio como horario, redes sociales. Proyecto realizado entre Abril y Junio de 2023",
+		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas características estan: Autenticación, recuperación de contraseña, cierre de sessión, gestión de categorias y productos, generador de codigo QR para menú, información del negocio como horario, redes sociales. Proyecto realizado entre Abril y Junio de 2023",
 		cliente: "LARAVEL 10",
 		siteWeb: "https://youtu.be/tuKiQR_o7cA",
-		completado: "2023",
+		completado: "Junio 2023",
 		foto: ['menu/menu.jpg','menu/menu2.jpg','menu/menu3.jpg','menu/menu4.jpg'],
 		herramientas: "Panel administrativo con Laravel v10, Blade, JavaScript, MySQL, CSS, Html, Bootstrap v5.",
 		categoria: 'web',
 		id: 8
+	},
+	{
+		titulo: "Menú Online",
+		descripcion: "Algunas características:  Mostrar Lista de productos, Detalles de producto como descripción, precio y foto, filtrar productos por categoria, agregar producto a carrito, formulario con detalles del cliente y lista del carrito, Proyecto realizado en Marzo de 2023",
+		cliente: "VUEJS 3",
+		siteWeb: "https://youtu.be/lHxWqUwBSNo",
+		completado: "marzo 2023",
+		foto: ['menu2/menu.jpg','menu2/menu2.jpg','menu2/menu3.jpg'],
+		herramientas: "Vuejs 3, Pinia, JavaScript, CSS, Html, Bootstrap v5.",
+		categoria: 'web',
+		id: 9
 	},
 	{
 		titulo: "App Check List",
