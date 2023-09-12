@@ -22,7 +22,6 @@
 
           <li><router-link to="/habilidades">Habilidades</router-link></li>
 
-          <li><router-link to="/contacto">Contacto</router-link></li>
         </ul>
       </nav>
     </aside>
