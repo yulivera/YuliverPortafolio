@@ -30,7 +30,7 @@
             <div class="col-md-5">
               <div class="portfolio_right_text">
                 <h4>{{ proyecto.titulo }}</h4>
-                <p>{{ proyecto.descripcion }}</p>
+                <p v-html="formatDescription(proyecto.descripcion)"></p>
                 <ul class="list">
                   <li>
                     <span>Demostración</span>:
@@ -73,6 +73,10 @@ export default {
       $(".carousel").carousel({
         interval: 4000,
       });
+    },
+    formatDescription(description) {
+      // Reemplaza los saltos de línea (\n) con etiquetas <br> para que se muestren correctamente en HTML
+      return description.replace(/\n/g, "<br>");
     },
   },
 };

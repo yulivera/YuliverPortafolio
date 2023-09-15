@@ -1,7 +1,14 @@
 export default [
 	{
 		titulo: "Menú Web - Panel Administrativo",
-		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas características estan: Autenticación, recuperación de contraseña, cierre de sessión, gestión de categorias y productos, generador de codigo QR para menú, información del negocio como horario, redes sociales. Desarrollo de Api Rest para recibir ordenes desde página de Menú y enviar información de los productos. Proyecto realizado entre Abril y Junio de 2023",
+		descripcion: "Panel administrativo para Menú web con Laravel 10. Algunas características estan: \n"+
+		 "Autenticación, recuperación de contraseña, cierre de sessión. \n "+
+		 "Gestión de categorias y productos. \n"+
+		 "Generador de codigo QR para menú. \n "+
+		 "Información del negocio como horario, redes sociales. \n"+
+		 "Desarrollo de Api Rest para recibir ordenes desde página de Menú y "+
+		 "enviar información de los productos. \n"+
+		 "Proyecto realizado entre Abril y Junio de 2023",
 		cliente: "LARAVEL 10",
 		siteWeb: "https://youtu.be/tuKiQR_o7cA",
 		completado: "Junio 2023",
@@ -12,7 +19,14 @@ export default [
 	},
 	{
 		titulo: "Menú Online",
-		descripcion: "Algunas características:  Mostrar Lista de productos, Detalles de producto como descripción, precio y foto, filtrar productos por categoria, agregar producto a carrito, formulario con detalles del cliente y lista del carrito, datos consumidos de API Rest hecha en Laravel. Proyecto realizado en Marzo de 2023",
+		descripcion: "Algunas características:  \n"+
+			"Mostrar Lista de productos. \n "+
+			"Detalles de producto como descripción, precio y foto. \n"+
+			"Filtrar productos por categoria. \n"+
+			"Agregar producto al carrito. \n"+
+			"Formulario con detalles del cliente y lista del carrito. \n"+
+			"Datos consumidos de API Rest hecha en Laravel. "+
+			"Proyecto realizado en Marzo de 2023.",
 		cliente: "VUEJS 3",
 		siteWeb: "https://youtu.be/lHxWqUwBSNo",
 		completado: "marzo 2023",
@@ -23,7 +37,9 @@ export default [
 	},
 	{
 		titulo: "App Check List",
-		descripcion: "Crear app List ckeck, tiene como objetivo conocer el Frameword Laravel y vuejs. Creando una API y consumir datos en vuejs usando axios",
+		descripcion: "Crear app List ckeck, tiene como objetivo conocer el "+
+		"Frameword Laravel y vuejs. Creando una API "+
+		"y consumir datos en vuejs usando axios",
 		cliente: "LARAVEL - VUE JS 3",
 		siteWeb: "https://github.com/yulivera/app-list-check-laravelApi-vue",
 		completado: "2023",
@@ -34,7 +50,11 @@ export default [
 	},
 	{
 		titulo: "Sistema Veterinaria VET-PET",
-		descripcion: "Sistema para la gestión de clínica veterinaria y página web. Algunas funciones tenemos: Autenticación, recuperación de contraseña, cierre de sessión, gestión de mascotas, vacunas, especies, crear citas, modulo de venta. Proyeto realizado en 2021, integración de pagina web en Febrero de 2023",
+		descripcion: "Sistema para la gestión de clínica veterinaria y página web. Algunas funciones tenemos: \n"+
+		"Autenticación, recuperación de contraseña, cierre de sessión. \n"+
+		"Gestión de mascotas, vacunas, especies. \n" +
+		"Crear citas y modulo de venta. \n"+
+		"Proyeto realizado en 2021, integración de pagina web en Febrero de 2023",
 		cliente: "PHP - MySql",
 		siteWeb: "https://youtu.be/Em85axTrJzo",
 		completado: "2023",
