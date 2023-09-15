@@ -30,7 +30,7 @@ export default [
 		cliente: "VUEJS 3",
 		siteWeb: "https://youtu.be/lHxWqUwBSNo",
 		completado: "marzo 2023",
-		foto: ['menu2/menu.jpg','menu2/menu2.jpg','menu2/menu3.jpg'],
+		foto: ['menu2/menu.jpg','menu2/menu2.jpg','menu2/menu3.jpg','menu2/menu4.jpg'],
 		herramientas: "Vuejs 3, Pinia, JavaScript, CSS, Html, Bootstrap v5.",
 		categoria: 'web',
 		id: 9
