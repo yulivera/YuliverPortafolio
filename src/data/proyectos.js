@@ -28,7 +28,7 @@ export default [
 			"Datos consumidos de API Rest hecha en Laravel. "+
 			"Proyecto realizado en Marzo de 2023.",
 		cliente: "VUEJS 3",
-		siteWeb: "https://youtu.be/lHxWqUwBSNo",
+		siteWeb: "https://rosav.menuqrve.com/",
 		completado: "marzo 2023",
 		foto: ['menu2/menu.jpg','menu2/menu2.jpg','menu2/menu3.jpg','menu2/menu4.jpg'],
 		herramientas: "Vuejs 3, Pinia, JavaScript, CSS, Html, Bootstrap v5.",
